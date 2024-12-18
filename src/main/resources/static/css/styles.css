@@ -2,7 +2,7 @@ body {
     font-family: "Roboto", sans-serif;
     color: #0c0c0c;
     background-color: #ffffff;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
   }
   
   .layout_padding {
@@ -91,7 +91,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    overflow: hidden;
+    /* overflow: hidden; */
     z-index: -1;
   }
   
